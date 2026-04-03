@@ -71,7 +71,7 @@ The system is pre-configured to identify:
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/JayPanchalEZ/logsentinel
-cd your-repo-name
+cd logsentinel
 ```
 ### 2. Install Dependencies
 ```bash
