@@ -70,7 +70,7 @@ The system is pre-configured to identify:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/JayPanchalEZ/logsentinel
 cd your-repo-name
 ```
 ### 2. Install Dependencies
