@@ -29,9 +29,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Models
-models/*.joblib
-models/*.pkl
 
 # Generated outputs
 resources/security_report.xlsx
