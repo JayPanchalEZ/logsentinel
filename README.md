@@ -60,7 +60,7 @@ The system is pre-configured to identify:
 ├── models/ # Saved ML models
 ├── resources/ # Input/output files
 ├── training/ # Model training scripts
-├── .env # API keys (ignored)
+├── .env # API keys
 ├── .gitignore
 └── README.md
 ```
